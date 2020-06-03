@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Christos Gkikas
-description: About anything, everything and nothing
+title: chris' blog
+description: 
 github_username: chrisgks
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
